@@ -1,0 +1,24 @@
+.overlay-container{
+position: absolute;
+top: 0;
+left: 0;
+height: 100%;
+width: 50%;
+color: var(--primary-color);
+text-align: center;
+transform: translateX(100%);
+transition: 1s;
+z-index: 10;
+}
+
+.login-container.switch .overlay-container{
+transform: translateX(0%);
+
+}
+
+@media (max-width: 768px){
+    .overlay-container{
+        display: none;
+    }
+
+}

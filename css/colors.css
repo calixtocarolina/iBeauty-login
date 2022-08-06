@@ -1,0 +1,9 @@
+:root{
+    --text-color-dark: #000;
+    --text-color-light: #fff;
+    --primary-color: rgb(235, 201, 12);
+    --secundary-color: rgb(15, 15, 15);
+    --social-icon-shadow: rgb(252, 215, 7);
+    --text-inside-input: rgb(236, 236, 236);
+
+}

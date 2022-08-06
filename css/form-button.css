@@ -1,0 +1,34 @@
+.form-button{
+height: 40px;
+width: 140px;
+border-style: none;
+border-radius: 50px;
+border: 2px solid var(--text-color-dark);
+background-color: transparent;
+font-size: 1rem;
+font-weight: 800;
+color: var(--text-color-dark);
+cursor: pointer;
+
+}
+
+.form-button:hover{
+
+background-color: var(--text-color-dark);
+color: var(--text-color-light);
+transition: 0.5s;
+}
+
+.form-button-light{
+    color: var(--text-color-light);
+    border: 2px solid var(--text-color-light)
+    
+}
+
+@media (max-width: 768px){
+    .form-button{
+        background-color: var(--text-color-light);
+        color: var(--text-color-dark);
+        border: 2px solid var(--text-color-light);
+    }
+}
