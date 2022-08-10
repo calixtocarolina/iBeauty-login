@@ -1,7 +1,7 @@
 ## iBeauty Login
 
-![iBeauty Login Design Webpage](https://cdn.discordapp.com/attachments/869389801843990528/1005553022488817725/pagina1.png)
-![iBeauty Login Design Webpage](https://cdn.discordapp.com/attachments/869389801843990528/1005553022807593000/pagina2.png)
+![iBeauty Login Design Webpage](https://media.discordapp.net/attachments/869389801843990528/1006998380561576177/pagina1.png?width=718&height=452)
+![iBeauty Login Design Webpage](https://media.discordapp.net/attachments/869389801843990528/1006998046334259210/pagina2.png?width=725&height=452)
 
 <p> The iBeauty login website was made using simple tools to create a clean appearance for the user/client to log in or sign on. It can fit the all types of needs, so feel free to use the design and readjust! </p>
 
