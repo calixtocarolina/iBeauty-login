@@ -1,9 +1,9 @@
 :root{
-    --text-color-dark:rgb(121, 91, 64);
+    --text-color-dark: #b3796f;
     --text-color-light: #fff;
-    --primary-color: rgb(255, 255, 255);
-    --secundary-color: rgb(173, 144, 110);
-    --social-icon-shadow: rgb(143, 119, 97);
-    --text-inside-input: rgb(236, 236, 236);
+    --primary-color: #fff;
+    --secundary-color: #F1D5D0;
+    --social-icon-shadow: #F1D5D0;
+    --text-inside-input: #ececec;
 
 }
